@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  4 SEP 2017 17:56
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  5 SEP 2017 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1324,7 +1324,27 @@ LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 11.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--19
+Underfull \hbox (badness 10000) in paragraph at lines 10--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--22
 
  []
 
@@ -1828,12 +1848,12 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) (./cv/skills.tex
+[3]) (./cv/skills.tex
 Overfull \hbox (51.904pt too wide) in alignment at lines 10--24
 [] [] 
  []
 
-) [3]
+) [4]
 
 ! LaTeX Error: \begin{pubentries} on input line 7 ended by \end{document}.
 
@@ -1861,10 +1881,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 103.
 Here is how much of TeX's memory you used:
  39890 strings out of 493734
  758317 string characters out of 6146348
- 888271 words of memory out of 5000000
+ 889271 words of memory out of 5000000
  42658 multiletter control sequences out of 15000+600000
  8662 words of font info for 100 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 72i,12n,89p,10411b,501s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,12n,89p,10411b,539s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv.pdf (3 pages).
+Output written on cv.pdf (4 pages).
