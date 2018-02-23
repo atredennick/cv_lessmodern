@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.7.10)  20 FEB 2018 12:48
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.7.10)  23 FEB 2018 13:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1704,7 +1704,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-) [2] (./cv/honors.tex
+) (./cv/honors.tex
 ! Argument of \makeph@nt has an extra }.
 <inserted text> 
                 \par 
@@ -1915,7 +1915,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-) (./cv/teaching.tex) (./cv/service.tex
+) [2] (./cv/teaching.tex) (./cv/service.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 12.00018pt on input line 12.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
@@ -1928,11 +1928,10 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 7.99988pt on input line 12.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 5.99991pt on input line 12.
-[3]
 ! Missing \endcsname inserted.
 <to be read again> 
                    \relax 
-l.64 \begin{\small}
+l.63 \begin{\small}
                    
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1940,7 +1939,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \relax 
-l.64 \begin{\small}
+l.63 \begin{\small}
                    
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1948,7 +1947,7 @@ not appear between \csname and \endcsname.
 ! Extra \endcsname.
 \@ifundefined ...dafter \ifx \csname #1\endcsname 
                                                   \relax \expandafter \@firs...
-l.64 \begin{\small}
+l.63 \begin{\small}
                    
 I'm ignoring this, since I wasn't doing a \csname.
 
@@ -1964,13 +1963,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.64 \begin{\small}
+l.63 \begin{\small}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) (./cv/presentations.tex
+[3]) (./cv/presentations.tex
 ! Missing \endcsname inserted.
 <to be read again> 
                    \relax 
@@ -2040,14 +2039,14 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 104.
 (\end occurred inside a group at level 4)
 
 ### semi simple group (level 4) entered at line 7 (\begingroup)
-### semi simple group (level 3) entered at line 63 (\begingroup)
+### semi simple group (level 3) entered at line 62 (\begingroup)
 ### semi simple group (level 2) entered at line 17 (\begingroup)
 ### semi simple group (level 1) entered at line 7 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
  37756 strings out of 492998
  741426 string characters out of 6134491
- 940501 words of memory out of 5000000
+ 938536 words of memory out of 5000000
  41211 multiletter control sequences out of 15000+600000
  534978 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
