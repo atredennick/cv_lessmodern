@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  24 APR 2018 07:20
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  4 MAY 2018 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1207,96 +1207,111 @@ LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 13.
 
+Underfull \hbox (badness 10000) in paragraph at lines 12--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--29
+
+ []
+
+[1
+
+]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 {
+      \bf{Tredennick, A.T.}}, P.B. Adler, J.B. Grace, W.S. Harpole, E.T. Bor...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
 ! LaTeX Error: \begin{pubentries} on input line 10 ended by \end{small}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.45 \end{small}
+l.46 \end{small}
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
+Underfull \hbox (badness 10000) in paragraph at lines 31--47
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
+Underfull \hbox (badness 10000) in paragraph at lines 31--47
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
+Underfull \hbox (badness 10000) in paragraph at lines 31--47
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
+Underfull \hbox (badness 10000) in paragraph at lines 31--47
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
+Underfull \hbox (badness 10000) in paragraph at lines 31--47
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
+Underfull \hbox (badness 10000) in paragraph at lines 31--47
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
+Underfull \hbox (badness 10000) in paragraph at lines 31--47
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--46
-
- []
-
-[1
-
-]) (./cv/submitted.tex
+) (./cv/submitted.tex
 ! Missing \endcsname inserted.
 <to be read again> 
                    \relax 
@@ -1623,7 +1638,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-) (./cv/honors.tex
+) [2] (./cv/honors.tex
 ! Argument of \makeph@nt has an extra }.
 <inserted text> 
                 \par 
@@ -1834,7 +1849,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-) [2] (./cv/teaching.tex) (./cv/service.tex
+) (./cv/teaching.tex) (./cv/service.tex
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 12.00018pt on input line 12.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
@@ -1964,10 +1979,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 104.
 ### semi simple group (level 1) entered at line 7 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 39893 strings out of 493734
- 758343 string characters out of 6146348
- 890340 words of memory out of 5000000
- 42661 multiletter control sequences out of 15000+600000
+ 39892 strings out of 493734
+ 758328 string characters out of 6146348
+ 887374 words of memory out of 5000000
+ 42660 multiletter control sequences out of 15000+600000
  8662 words of font info for 100 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  72i,11n,89p,10411b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
