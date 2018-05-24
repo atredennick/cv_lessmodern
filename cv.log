@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  23 MAY 2018 17:34
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  24 MAY 2018 06:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1865,7 +1865,7 @@ LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 ! Missing \endcsname inserted.
 <to be read again> 
                    \relax 
-l.65 \begin{\small}
+l.69 \begin{\small}
                    
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1873,7 +1873,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \relax 
-l.65 \begin{\small}
+l.69 \begin{\small}
                    
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1881,7 +1881,7 @@ not appear between \csname and \endcsname.
 ! Extra \endcsname.
 \@ifundefined ...dafter \ifx \csname #1\endcsname 
                                                   \relax \expandafter \@firs...
-l.65 \begin{\small}
+l.69 \begin{\small}
                    
 I'm ignoring this, since I wasn't doing a \csname.
 
@@ -1897,7 +1897,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.65 \begin{\small}
+l.69 \begin{\small}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1973,14 +1973,14 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 104.
 (\end occurred inside a group at level 4)
 
 ### semi simple group (level 4) entered at line 7 (\begingroup)
-### semi simple group (level 3) entered at line 64 (\begingroup)
+### semi simple group (level 3) entered at line 68 (\begingroup)
 ### semi simple group (level 2) entered at line 17 (\begingroup)
 ### semi simple group (level 1) entered at line 7 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
  39892 strings out of 493734
  758328 string characters out of 6146348
- 892374 words of memory out of 5000000
+ 892373 words of memory out of 5000000
  42660 multiletter control sequences out of 15000+600000
  8662 words of font info for 100 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
